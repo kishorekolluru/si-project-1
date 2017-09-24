@@ -12,7 +12,7 @@
         "assets",
         "favicon.ico",
         "manifest.json",
-        "styles.css"
+        "./styles.css"
       ],
       "index": "index.html",
       "main": "main.ts",
